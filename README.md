@@ -12,7 +12,7 @@ The formula for this representation is written as:&nbsp;&nbsp;&nbsp;π * $r^{2} 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For this project, I'd like to use p5.js to draw a tree that splits into branches that continue to split, with more branches every split within vaguely naturalistic angles. Using the above formula, p5.js should be directed to render a tree that splits four times, where each splitting iteration splits into more branches that also split, and so on before terminaing in foliage.
 
-![Top-Down](https://github.com/Wazbaz-the-Weary/Peter_L_Griffiths_Assignment_2/blob/a6cc756cdd3c9be5158e0626fa50e49995df1912/Screenshot%202025-01-30%20193826.png)?raw=true)
+![Top-Down](https://github.com/Wazbaz-the-Weary/Peter_L_Griffiths_Assignment_2/blob/a6cc756cdd3c9be5158e0626fa50e49995df1912/Screenshot%202025-01-30%20193826.png)
 
 ### Program: 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://editor.p5js.org/Wazbaz-the-Weary/sketches/GMUiMM_Kt
